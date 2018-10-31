@@ -10,7 +10,7 @@ namespace NUmberSystems
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome! Input a number to convert it to binary. Type Q to quit. ");
+            Console.WriteLine("Welcome! Input a number to convert it to binary. Type Q to quit . ");
 
             do
             {
